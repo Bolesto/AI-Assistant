@@ -1,2 +1,2 @@
 # AI-Assistant
-This repository contains my Proof of Concept AI assistant built upon a Full Stack archeticture.
+Full-stack proof-of-concept AI assistant, built using ASP.NET Core API, React/TypeScript front-end, and a locally-run LLM (Ollama).

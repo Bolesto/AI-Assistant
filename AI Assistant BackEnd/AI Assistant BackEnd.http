@@ -1,0 +1,6 @@
+@AI_Assistant_BackEnd_HostAddress = http://localhost:5269
+
+GET {{AI_Assistant_BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
